@@ -1,0 +1,2 @@
+Mac/Linux: ../bin/spark-submit  --master local[*] kmeans.py data.txt centroid.txt
+Windows: bin\spark-submit --master local[*] kmeans.py data.txt centroid.txt
